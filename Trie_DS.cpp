@@ -1,3 +1,6 @@
+//Here I am work with only lowercase Character(a-z)
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
